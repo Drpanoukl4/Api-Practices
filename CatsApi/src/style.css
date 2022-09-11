@@ -1,0 +1,16 @@
+#x{
+
+font-size: 25px;
+text-align: center;
+margin-right: 300px;
+margin-left: 300px;
+}
+
+#di{
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+
+}
